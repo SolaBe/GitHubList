@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHubList</string>
+    <string name="pub_repos">Public repos: %1d</string>
+    <string name="pub_gists">Pub gists: %1d</string>
+    <string name="followers">Followers: %1d</string>
+    <string name="following">Following: %1d</string>
+</resources>
